@@ -1,22 +1,19 @@
-# Demo file for inner file
-In this file, you should describe the content of the folder. For example, in this case, we could state that:
+# Inteligencia Artificial - ML
 
-## Files for revision
-This folder contains the files related to the deliverables from the Machine Learning module. The following files are to be graded: 
+Entrega 1. 
+Momento de Retroalimentación: Módulo 2 Implementación de una técnica de aprendizaje máquina sin el uso de un framework. (Portafolio Implementación)
 
- * **Evidence 01: ML from scratch** Please review file **Ev_01/dummyFile.txt**
- * **Evidence 02: ML from a framework** Please review file **Ev_02/dummyFolder/dummyFile.txt**
+Archivo - ./Ev_01
 
-## Requested changes and replies
-Following is a list of the issues that were raised by the reviewer during the feedback phase, and the changes that we implemented for solving them.
+Entrega 2.
+Momento de Retroalimentación: Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución. (Portafolio Implementación)
 
-### Issue 01: You are still missing some tests
-We added some more testing varying the hyper-parameters in the following ranges: 
-* Theta: We used values 0.01, 0.001, and 0.005
-* ...
+Archivo - ./Ev_02
 
-These changes can be observerd in the following files: 
-* ...
+Entrega 3.
+Momento de Retroalimentación: Módulo 2 Análisis y Reporte sobre el desempeño del modelo. (Portafolio Análisis)
 
-### Issue 02: ...
-...
+Archivo - ./Ev_03
+
+
+*Todas las carpetas contienen las entregas actualizadas de acuerdo a las correciones dadas, en el readme de cada uno vienen mas detalles de cada una de estas*
