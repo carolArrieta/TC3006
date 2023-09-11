@@ -1,6 +1,3 @@
-# Demo file for inner file
-In this file, you should describe the content of the folder. For example, in this case, we could state that:
+# Archivos a revisar
 
-This folder contains the files related to the deliverables from the Statistics module. The following files are to be graded: 
-
- * **Evidence 01: ML from scratch** Please review file **Ev_01/dummyFile.txt**
+Momento de Retro.pdf - Contiene "Módulo 1 Técnicas de procesamiento de datos para el análisis estadístico y para la construcción de modelos" y "Módulo 1 Construcción de un modelo estadístico base"
