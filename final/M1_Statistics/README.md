@@ -8,4 +8,4 @@ Analisis.pdf - Contiene "Análisis del contexto y la normatividad."
 
 # Cambios realizados
 
-De acuerdo a la retroalimentación dada se realizó un reporte más completo añadiendo la pregunta base así como conclusiones de esta
+De acuerdo a la retroalimentación dada se realizó un reporte más completo añadiendo la pregunta base así como conclusiones de esta. Sumando a esto se agregarón mas graficas e interpretaciones para un reporte más completo.
