@@ -1,4 +1,4 @@
-# Demo repo for the TC3006 course
+# TC3006 
 This repository is a demo of what is expected to deliver on each repository requested for the TC3006 course at Tecnológico de Monterrey. For this demo, we consider the *implementation portfolio* deliverable, which spans across two modules (Statistics and ML) and two subcompetencies (SMA0101A and SMA0401A). Also, we assume that the repository is being provided at the end of first block, which means that the students already got some feedback from the professors. 
 
 ## Structure of this repository
@@ -15,11 +15,11 @@ Following is a list of the files that must be checked for grading each subcompet
 
 * *Module 1: Statistics*
 	* *SMA0101A*
-		* **Evidence 01: Modeling** Please review file **final/M1_Statistics/Ev_01/dummyFile.txt**
+		* **Evidence 01: Modeling** 
 * *Module 2: Machine Learning*
 	* *SMA0401A*
-		* **Evidence 01: ML from scratch** Please review file **final/M2_ML/Ev_01/dummyFile.txt**
-		* **Evidence 02: ML from a framework** Please review file **final/M2_ML/Ev_02/dummyFolder/dummyFile.txt**
+		* **Evidence 01: ML from scratch** 
+		* **Evidence 02: ML from a framework** 
 
 
 ## Requested changes and replies
@@ -27,11 +27,9 @@ Following is a list of the location of the issues that were raised by the review
 
 * *Module 1: Statistics*
 	* *SMA0101A*
-		* **Evidence 01: Modeling: final/M1_Statistics/README.md**
+		* **Evidence 01: Modeling*
 * *Module 2: Machine Learning*
 	* *SMA0401A*
-		* **Evidence 01: ML from scratch: final/M2_ML/README.md**
-		* **Evidence 02: ML from a framework: final/M2_ML/README.md**
+		* **Evidence 01: ML from scratch**
+		* **Evidence 02: ML from a framework**
 		
-
-See you!
