@@ -8,6 +8,8 @@ Dataset utilizado - Indicador de enferemedades del corazón
 
 El dataset consiste en diferentes variables como la edad, si consumen alcohol, entre otras, así como una columna que nos indica si tienen o no enfermedades del corazón.
 
+En este archivo se contienen dos evidencias, en el mismo archivo se indica la separación de uno y otro.
+
 # ARCHIVOS 
 Archivo de dataset - heart_2020_cleaned.csv
 
@@ -17,4 +19,4 @@ Código de modelo - ConFrameword.ipynb
 
 # Cambios realizados
 
-Se agregó la parte de predicciones, se separó el data set en train y test para poder realizar la predicción y se mostró el score de esta.
+Se agregó la parte de predicciones, se separó el data set en train y test para poder realizar el entrenamiento y la predicción con datos diferentes y se mostró el score de esta. 
