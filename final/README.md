@@ -1,4 +1,14 @@
-# Demo file for the folder with the final version of each deliverable
-In this file, you should describe the content of the folder. For example, in this case, we could state that:
+# Carpetas finales a revisar
 
-This folder contains the final files that must be graded for each deliverable. The folder is organized into subfolders, one for each deliverable.
+Carpeta de ML contiene - 
+
+- Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución.
+- Módulo 2 Implementación de una técnica de aprendizaje máquina sin el uso de un framework.
+- Módulo 2 Análisis y Reporte sobre el desempeño del modelo.
+
+
+Carpeta de Estadistica contiene - 
+
+- Módulo 1 Técnicas de procesamiento de datos para el análisis estadístico y para la construcción de modelos 
+- Módulo 1 Construcción de un modelo estadístico base
+- Análisis del contexto y la normatividad.
