@@ -1,23 +1,11 @@
-# Demo file for inner file
-In this file, you should describe the content of the folder. For example, in this case, we could state that:
+# Archivos a revisar
 
-## Files for revision
-This folder contains the files related to the deliverables from the Statistics module. The following files are to be graded: 
+Final.pdf - Contiene "Módulo 1 Técnicas de procesamiento de datos para el análisis estadístico y para la construcción de modelos" y "Módulo 1 Construcción de un modelo estadístico base"
 
- * **Evidence 01: Modeling ** Please review file **Ev_01/dummyFile.txt**
- 
-## Requested changes and replies
-Following is a list of the issues that were raised by the reviewer during the feedback phase, and the changes that we implemented for solving them.
+Final.ipynb - Archivo de pdf en python por si se requiere probar
 
-### Issue 01: You are still missing some tests
-We added some more testing varying the hyper-parameters in the following ranges: 
-* Theta: We used values 0.01, 0.001, and 0.005
-* ...
+Analisis.pdf - Contiene "Análisis del contexto y la normatividad."
 
-These changes can be observerd in the following files: 
-* ...
+# Cambios realizados
 
-### Issue 02: ...
-...
-
-
+De acuerdo a la retroalimentación dada se realizó un reporte más completo añadiendo la pregunta base así como conclusiones de esta
