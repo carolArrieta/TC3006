@@ -13,6 +13,8 @@ Archivo de dataset - heart_2020_cleaned.csv
 
 Link a dataset - https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease?resource=download 
 
-Código de modelo - 
+Código de modelo - SinFramework.ipynb
 
 # Cambios realizados
+
+Se implementó la parte de entrenamiento y predicción debido a que en el código entregado en la primer entrega no realizaba de forma correcta estos procesos.
