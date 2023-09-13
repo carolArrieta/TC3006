@@ -15,15 +15,21 @@ De acuerdo a la retroalimentación dada se realizó un reporte más completo añ
 ./Actividades de análisis 
 
 Actividad 1. Algunas distribuciones de probabilidad (pdf)
+
 Actividad 2. Explorando bases (pdf)
+
 Actividad 3. Transformaciones (pdf)
 
 ./Actividades de implementación 
 
 Actividad 4. Intervalos de confianza (pdf)
+
 Actividad 5. Pruebas de hipótesis (pdf)
+
 Actividad 6. ANOVA (pdf)
+
 Actividad 7. Regresión lineal (pdf)
 
 Reporte final de "El precio de los autos" - CarolArrietaMorenoA01275465Módulo1.pdf
+
 Código de análisis de "El Precio de los autos" - Final.ipynb
